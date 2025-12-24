@@ -47,7 +47,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 SQL: Querying and aggregations
 
-Databases: PostgreSQL / MySQL / SQL Server
+Databases: MySQL 
 
 Power BI: Dashboard creation and visualization
 
@@ -132,22 +132,6 @@ Revealed key customer segments contributing the most revenue
 
 Delivered actionable insights for marketing and pricing strategies
 
-▶️ How to Run the Project
-
-Clone the repository:
-
-git clone <repository-link>
-
-
-Run Python scripts/notebooks for EDA and data cleaning
-
-Load cleaned data into SQL database (PostgreSQL/MySQL/SQL Server)
-
-Execute SQL queries from the /sql folder
-
-Open the Power BI .pbix file to view the dashboard
-
-Review the PPT created using Gamma for summarized insights
 
 📌 Deliverables
 
